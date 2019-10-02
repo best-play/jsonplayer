@@ -1,0 +1,717 @@
+{
+	"behindthescenes-hd720p-dmah-1": {
+		"url": "",
+		"original_asset_mime_type": "ochre/static",
+		"original_asset_thumbnail": "",
+		"video_choices": [],
+		"mp4": "",
+		"instantSwitch": 1,
+		"flv": "",
+		"id": "behindthescenes-hd720p-dmah-1",
+		"original_asset": ""
+	},
+	"campaign": {
+		"ad_id": "",
+		"campaignId": 6612,
+		"campaignVersion": 1,
+		"clientId": 1,
+		"avg_duration": "00:02:00",
+		"published": true
+	},
+	"share": {
+		"no_fb": 0,
+		"image": "clients/ochre-1/6612/screenshot2015-05-22at90952am-il19.png",
+		"twitter_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!",
+		"link": "https://play.adventr.tv/food-revolution-day-26534615",
+		"no_twitter": 0,
+		"fb_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!",
+		"embed": "<iframe src=\"http://static.theochre.com/embed.html?x=http://static.theochre.com/clients/ochre-1/6612/published/ochre-1-food-revolution-day-26534615.data\" width=\"640px\" height=\"360px\" frameborder=\"0\" style=\"overflow:hidden\" scrolling=\"no\" allowFullscreen></iframe>"
+	},
+	"height": 720,
+	"analytics": [],
+	"jaimecullum-hd720p-q3lc-1": {
+		"url": "",
+		"original_asset_mime_type": "ochre/static",
+		"original_asset_thumbnail": "",
+		"video_choices": [],
+		"mp4": "",
+		"instantSwitch": 1,
+		"flv": "",
+		"id": "jaimecullum-hd720p-q3lc-1",
+		"original_asset": ""
+	},
+	"intro-hd720p-lz5w-1": {
+		"mp4": "",
+		"url": "",
+		"original_asset_thumbnail": "",
+		"flv": "",
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/static",
+		"instantSwitch": 1,
+		"id": "intro-hd720p-lz5w-1",
+		"original_asset": ""
+	},
+	"paulmccartney-hd720p-ajni-1": {
+		"mp4": "",
+		"url": "",
+		"original_asset_thumbnail": "",
+		"flv": "",
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/static",
+		"instantSwitch": 1,
+		"id": "paulmccartney-hd720p-ajni-1",
+		"original_asset": ""
+	},
+	"intronewtitle-z3if": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "IntroNewTitle.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/intronewtitle-z3if-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/intronewtitle-z3if_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 11200,
+		"video_choices": [{
+				"top": "235",
+				"label": "chapter1newtitle-tbhc",
+				"next_video_id": "chapter1newtitle-tbhc",
+				"image2": "clients/ochre-1/6612/smallerplaybuttonwhite-c3uv.png",
+				"alpha": "1",
+				"image": "clients/ochre-1/6612/smallerplaybutton-dj8o.png",
+				"left": "406"
+			},
+			{
+				"next_video_id": "intro-hd720p-lz5w-1",
+				"alpha": "1",
+				"top": "0",
+				"image": "clients/ochre-1/6612/prelude2-wjce.png",
+				"left": "117"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/intronewtitle-z3if.mp4",
+		"original_asset": "clients/ochre-1/6612/intronewtitle-z3if.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_intronewtitle-z3if.flv",
+		"flv_low": "clients/ochre-1/6612/intronewtitle-z3if-low.flv",
+		"original_asset_id": "intronewtitle-z3if",
+		"instantSwitch": 1,
+		"flv": "clients/ochre-1/6612/intronewtitle-z3if-high.flv",
+		"id": "intronewtitle-z3if",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!"
+	},
+	"width": 1280,
+	"splash": {
+		"src": "clients/ochre-1/6612/screenshot2015-05-22at90952am-il19.png"
+	},
+	"aleshadixon-hd720p-emyg": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Alesha Dixon-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/aleshadixon-hd720p-emyg-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				7
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/aleshadixon-hd720p-emyg_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 49500,
+		"video_choices": [{
+				"top": "160",
+				"next_video_id": "profgreen-hd720p-uicb",
+				"image2": "clients/ochre-1/6612/profghover-xwyc.png",
+				"alpha": "1",
+				"image": "clients/ochre-1/6612/profg-fntm.png",
+				"left": "314"
+			},
+			{
+				"top": "453",
+				"next_video_id": "jaimecullum-hd720p-q3lc",
+				"image2": "clients/ochre-1/6612/jc2hover-kv9t.png",
+				"alpha": "1",
+				"image": "clients/ochre-1/6612/jc2-ekyk.png",
+				"left": "753"
+			},
+			{
+				"top": "457",
+				"next_video_id": "behindthescenes-hd720p-dmah",
+				"image2": "clients/ochre-1/6612/btswjeshover-q3ek.png",
+				"alpha": "1",
+				"image": "clients/ochre-1/6612/btswjes-yj4s.png",
+				"left": "14"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/aleshadixon-hd720p-emyg.mp4",
+		"original_asset": "clients/ochre-1/6612/aleshadixon-hd720p-emyg.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_aleshadixon-hd720p-emyg.flv",
+		"flv_low": "clients/ochre-1/6612/aleshadixon-hd720p-emyg-low.flv",
+		"original_asset_id": "aleshadixon-hd720p-emyg",
+		"instantSwitch": 0,
+		"flv": "clients/ochre-1/6612/alesha.minus42.flv",
+		"id": "aleshadixon-hd720p-emyg",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!"
+	},
+	"hughjackman-hd720p-xxzs": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Hugh Jackman-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/hughjackman-hd720p-xxzs-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				7
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/hughjackman-hd720p-xxzs_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 49500,
+		"video_choices": [{
+				"top": "186",
+				"next_video_id": "jaimecullum-hd720p-q3lc",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/jchover-gghb.png",
+				"image": "clients/ochre-1/6612/jc-oohw.png",
+				"left": "314"
+			},
+			{
+				"top": "468",
+				"next_video_id": "djmk-hd720p-jhiv",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/djhover-rsqt.png",
+				"image": "clients/ochre-1/6612/dj-j5il.png",
+				"left": "0"
+			},
+			{
+				"top": "457",
+				"next_video_id": "behindthescenes-hd720p-dmah",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/btswjeshover-q3ek.png",
+				"image": "clients/ochre-1/6612/btswjes-yj4s.png",
+				"left": "632"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/hughjackman-hd720p-xxzs.mp4",
+		"original_asset": "clients/ochre-1/6612/hughjackman-hd720p-xxzs.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_hughjackman-hd720p-xxzs.flv",
+		"flv_low": "clients/ochre-1/6612/hughjackman-hd720p-xxzs-low.flv",
+		"original_asset_id": "hughjackman-hd720p-xxzs",
+		"instantSwitch": 0,
+		"flv": "clients/ochre-1/6612/hugh.minus4.flv",
+		"id": "hughjackman-hd720p-xxzs",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!"
+	},
+	"URL": {
+		"mp4": "",
+		"original_asset_filename": "URL",
+		"url": "https://www.change.org/p/jamie-oliver-needs-your-help-fighting-for-food-education-foodrevolutionday",
+		"original_output_path": "clients/ochre-1/13",
+		"hls": {
+			"segment_durations": []
+		},
+		"campaign_id": 13,
+		"original_asset_thumbnail": "advntr/assets/url.png",
+		"choices_time": 5000,
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/url",
+		"share_msg": "",
+		"original_asset_preview_flv": "advntr/assets/url.png",
+		"original_asset_id": "URL",
+		"instantSwitch": 1,
+		"flv": "",
+		"id": "URL",
+		"original_asset": "advntr/assets/url.png"
+	},
+	"jazzieb2-hd720p-rjpm": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Jazzie B2-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/jazzieb2-hd720p-rjpm-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				1
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/jazzieb2-hd720p-rjpm_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 14200,
+		"video_choices": [{
+				"top": "480",
+				"label": "ed-jamiecopy-bkvf",
+				"next_video_id": "ed-jamiecopy-bkvf",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/edjamiehover-8ubj.png",
+				"image": "clients/ochre-1/6612/edjamie-clpo.png",
+				"left": "25"
+			},
+			{
+				"top": "480",
+				"next_video_id": "hughjackman-hd720p-xxzs",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/hughjhover-5vwy.png",
+				"image": "clients/ochre-1/6612/hughj-p01f.png",
+				"left": "660"
+			},
+			{
+				"next_video_id": "jazzieb2-hd720p-rjpm-1",
+				"alpha": "1",
+				"top": "0",
+				"image": "clients/ochre-1/6612/whoattempt1-getj.png",
+				"left": "292"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/jazzieb2-hd720p-rjpm.mp4",
+		"original_asset": "clients/ochre-1/6612/jazzieb2-hd720p-rjpm.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_jazzieb2-hd720p-rjpm.flv",
+		"flv_low": "clients/ochre-1/6612/jazzieb2-hd720p-rjpm-low.flv",
+		"original_asset_id": "jazzieb2-hd720p-rjpm",
+		"instantSwitch": 0,
+		"flv": "clients/ochre-1/6612/JazzieTest1.flv",
+		"id": "jazzieb2-hd720p-rjpm",
+		"share_msg": ""
+	},
+	"profgreen-hd720p-uicb": {
+		"mp4": "clients/ochre-1/6612/profgreen-hd720p-uicb.mp4",
+		"original_asset_filename": "Prof. Green-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/profgreen-hd720p-uicb-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				4
+			]
+		},
+		"campaign_id": 6612,
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/profgreen-hd720p-uicb_0000.png",
+		"choices_time": 20000,
+		"video_choices": [{
+				"next_video_id": "URL",
+				"alpha": "1",
+				"top": "435",
+				"image": "clients/ochre-1/6612/minipetition-w0uc.png",
+				"left": "62"
+			},
+			{
+				"next_video_id": "facebookshare",
+				"alpha": "1",
+				"top": "413",
+				"image": "clients/ochre-1/6612/share-7zw3.png",
+				"left": "691"
+			}
+		],
+		"original_asset_mime_type": "video/quicktime",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_profgreen-hd720p-uicb.flv",
+		"flv_low": "clients/ochre-1/6612/profgreen-hd720p-uicb-low.flv",
+		"original_asset_id": "profgreen-hd720p-uicb",
+		"instantSwitch": 1,
+		"flv": "clients/ochre-1/6612/profgreen-hd720p-uicb-high.flv",
+		"id": "profgreen-hd720p-uicb",
+		"original_asset": "clients/ochre-1/6612/profgreen-hd720p-uicb.mov"
+	},
+	"facebookshare": {
+		"mp4": "",
+		"original_asset_filename": "Facebook Share",
+		"url": "https://www.facebook.com/dialog/feed?app_id=444928435575766&description=&display=popup&e2e=%7B%7D&link=https%3A%2F%2Fplay.adventr.tv%2Ffood-revolution-day-26534615&locale=en_US&next=https%3A%2F%2Fvideo.theochre.com%2Ffb_share%2F%3FcampaignId%3D6612&sdk=joey&t=&u=https%3A%2F%2Fplay.adventr.tv%2Ffood-revolution-day-26534615",
+		"original_output_path": "clients/ochre-1/13",
+		"hls": {
+			"segment_durations": []
+		},
+		"campaign_id": 13,
+		"share_url": "http://www.foodrevolutionday.com/song",
+		"original_asset_thumbnail": "advntr/assets/fb_icon_url.png",
+		"choices_time": 5000,
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/facebook",
+		"share_msg": "",
+		"original_asset_preview_flv": "advntr/assets/fb_icon_url.png",
+		"original_asset_id": "facebookshare",
+		"instantSwitch": 1,
+		"flv": "",
+		"id": "facebookshare",
+		"original_asset": "advntr/assets/fb_icon_url.png"
+	},
+	"djmk-hd720p-jhiv-1": {
+		"url": "",
+		"original_asset_mime_type": "ochre/static",
+		"original_asset_thumbnail": "",
+		"video_choices": [],
+		"mp4": "",
+		"instantSwitch": 1,
+		"flv": "",
+		"id": "djmk-hd720p-jhiv-1",
+		"original_asset": ""
+	},
+	"behindthescenes-hd720p-dmah": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Behind the Scenes-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/behindthescenes-hd720p-dmah-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				10
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/behindthescenes-hd720p-dmah_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 32000,
+		"video_choices": [{
+				"next_video_id": "URL",
+				"alpha": "1",
+				"top": "449",
+				"image": "clients/ochre-1/6612/minipetition-w0uc.png",
+				"left": "10"
+			},
+			{
+				"next_video_id": "facebookshare",
+				"alpha": "1",
+				"top": "431",
+				"image": "clients/ochre-1/6612/share-7zw3.png",
+				"left": "607"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/behindthescenes-hd720p-dmah.mp4",
+		"original_asset": "clients/ochre-1/6612/behindthescenes-hd720p-dmah.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_behindthescenes-hd720p-dmah.flv",
+		"flv_low": "clients/ochre-1/6612/behindthescenes-hd720p-dmah-low.flv",
+		"original_asset_id": "behindthescenes-hd720p-dmah",
+		"instantSwitch": 1,
+		"flv": "clients/ochre-1/6612/behindthescenes-hd720p-dmah-high.flv",
+		"id": "behindthescenes-hd720p-dmah",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!"
+	},
+	"name": "Food Revolution Day",
+	"jaimecullum-hd720p-q3lc": {
+		"mp4": "clients/ochre-1/6612/jaimecullum-hd720p-q3lc.mp4",
+		"original_asset_filename": "Jaime Cullum-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/jaimecullum-hd720p-q3lc-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				4
+			]
+		},
+		"campaign_id": 6612,
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/jaimecullum-hd720p-q3lc_0000.png",
+		"choices_time": 20000,
+		"video_choices": [{
+				"next_video_id": "URL",
+				"alpha": "1",
+				"top": "413",
+				"image": "clients/ochre-1/6612/minipetition-w0uc.png",
+				"left": "18"
+			},
+			{
+				"next_video_id": "facebookshare",
+				"alpha": "1",
+				"top": "395",
+				"image": "clients/ochre-1/6612/share-7zw3.png",
+				"left": "621"
+			}
+		],
+		"original_asset_mime_type": "video/quicktime",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_jaimecullum-hd720p-q3lc.flv",
+		"flv_low": "clients/ochre-1/6612/jaimecullum-hd720p-q3lc-low.flv",
+		"original_asset_id": "jaimecullum-hd720p-q3lc",
+		"instantSwitch": 1,
+		"flv": "clients/ochre-1/6612/JamieCullumFinal-HD720p.flv",
+		"id": "jaimecullum-hd720p-q3lc",
+		"original_asset": "clients/ochre-1/6612/jaimecullum-hd720p-q3lc.mov"
+	},
+	"chapter1-hd720p-yufq-1": {
+		"mp4": "",
+		"url": "",
+		"original_asset_thumbnail": "",
+		"flv": "",
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/static",
+		"instantSwitch": 1,
+		"id": "chapter1-hd720p-yufq-1",
+		"original_asset": ""
+	},
+	"paulmccartney-hd720p-ajni": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Paul McCartney-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/paulmccartney-hd720p-ajni-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				1
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/paulmccartney-hd720p-ajni_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 14200,
+		"video_choices": [{
+				"top": "470",
+				"next_video_id": "aleshadixon-hd720p-emyg",
+				"image2": "clients/ochre-1/6612/adhover-jtpo.png",
+				"alpha": "1",
+				"image": "clients/ochre-1/6612/ad-vsxx.png",
+				"left": "0"
+			},
+			{
+				"top": "470",
+				"label": "ed-jamiecopy-bkvf",
+				"next_video_id": "ed-jamiecopy-bkvf",
+				"image2": "clients/ochre-1/6612/edjamiehover-8ubj.png",
+				"alpha": "1",
+				"image": "clients/ochre-1/6612/edjamie-clpo.png",
+				"left": "661"
+			},
+			{
+				"next_video_id": "paulmccartney-hd720p-ajni-1",
+				"alpha": "1",
+				"top": "0",
+				"image": "clients/ochre-1/6612/whoattempt1-getj.png",
+				"left": "318"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/paulmccartney-hd720p-ajni.mp4",
+		"original_asset": "clients/ochre-1/6612/paulmccartney-hd720p-ajni.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_paulmccartney-hd720p-ajni.flv",
+		"flv_low": "clients/ochre-1/6612/paulmccartney-hd720p-ajni-low.flv",
+		"original_asset_id": "paulmccartney-hd720p-ajni",
+		"instantSwitch": 0,
+		"flv": "clients/ochre-1/6612/McCartneyTest1.flv",
+		"id": "paulmccartney-hd720p-ajni",
+		"share_msg": ""
+	},
+	"chapter1newtitle-tbhc": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Chapter1.NewTitle.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/chapter1newtitle-tbhc-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				6
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/chapter1newtitle-tbhc_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 15500,
+		"video_choices": [{
+				"top": "442",
+				"next_video_id": "paulmccartney-hd720p-ajni",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/paulm4r-duvg.png",
+				"image": "clients/ochre-1/6612/paulm4-019n.png",
+				"left": "29"
+			},
+			{
+				"top": "460",
+				"next_video_id": "jazzieb2-hd720p-rjpm",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/jazziehover-0ysn.png",
+				"image": "clients/ochre-1/6612/jazzie-aoev.png",
+				"left": "691"
+			},
+			{
+				"next_video_id": "chapter1-hd720p-yufq-1",
+				"alpha": "1",
+				"top": "0",
+				"image": "clients/ochre-1/6612/choosewn-ogsv.png",
+				"left": "157"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/chapter1newtitle-tbhc.mp4",
+		"original_asset": "clients/ochre-1/6612/chapter1newtitle-tbhc.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_chapter1newtitle-tbhc.flv",
+		"flv_low": "clients/ochre-1/6612/chapter1newtitle-tbhc-low.flv",
+		"original_asset_id": "chapter1newtitle-tbhc",
+		"instantSwitch": 0,
+		"flv": "clients/ochre-1/6612/Chapter1.NewTitle.flv",
+		"id": "chapter1newtitle-tbhc",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!"
+	},
+	"ed-jamiecopy-bkvf": {
+		"original_asset_mime_type": "video/quicktime",
+		"original_asset_filename": "Ed & JamieCOPY.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/ed-jamiecopy-bkvf-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				7
+			]
+		},
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/ed-jamiecopy-bkvf_0000.png",
+		"campaign_id": 6612,
+		"choices_time": 49500,
+		"video_choices": [{
+				"top": "215",
+				"next_video_id": "profgreen-hd720p-uicb",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/profghover-xwyc.png",
+				"image": "clients/ochre-1/6612/profg-fntm.png",
+				"left": "310"
+			},
+			{
+				"top": "490",
+				"next_video_id": "jaimecullum-hd720p-q3lc",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/jc2hover-kv9t.png",
+				"image": "clients/ochre-1/6612/jc2-ekyk.png",
+				"left": "69"
+			},
+			{
+				"top": "490",
+				"next_video_id": "djmk-hd720p-jhiv",
+				"alpha": "1",
+				"image2": "clients/ochre-1/6612/djhover-rsqt.png",
+				"image": "clients/ochre-1/6612/dj-j5il.png",
+				"left": "669"
+			}
+		],
+		"mp4": "clients/ochre-1/6612/ed-jamiecopy-bkvf.mp4",
+		"original_asset": "clients/ochre-1/6612/ed-jamiecopy-bkvf.mov",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_ed-jamiecopy-bkvf.flv",
+		"flv_low": "clients/ochre-1/6612/ed-jamiecopy-bkvf-low.flv",
+		"original_asset_id": "ed-jamiecopy-bkvf",
+		"instantSwitch": 0,
+		"flv": "clients/ochre-1/6612/ed-jamiecopy-bkvf-high.flv",
+		"id": "ed-jamiecopy-bkvf",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!"
+	},
+	"jazzieb2-hd720p-rjpm-1": {
+		"mp4": "",
+		"url": "",
+		"original_asset_thumbnail": "",
+		"flv": "",
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/static",
+		"instantSwitch": 1,
+		"id": "jazzieb2-hd720p-rjpm-1",
+		"original_asset": ""
+	},
+	"profgreen-hd720p-uicb-1-1": {
+		"mp4": "",
+		"url": "",
+		"original_asset_thumbnail": "",
+		"flv": "",
+		"video_choices": [],
+		"original_asset_mime_type": "ochre/static",
+		"instantSwitch": 1,
+		"id": "profgreen-hd720p-uicb-1-1",
+		"original_asset": ""
+	},
+	"djmk-hd720p-jhiv": {
+		"mp4": "clients/ochre-1/6612/djmk-hd720p-jhiv.mp4",
+		"original_asset_filename": "DJ MK-HD 720p.mov",
+		"original_output_path": "clients/ochre-1/6612",
+		"hls": {
+			"playlist": "clients/ochre-1/6612/hls/djmk-hd720p-jhiv-playlist.m3u8",
+			"segment_durations": [
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				4
+			]
+		},
+		"campaign_id": 6612,
+		"original_asset_thumbnail": "clients/ochre-1/6612/thumbnails/djmk-hd720p-jhiv_0000.png",
+		"choices_time": 23000,
+		"video_choices": [{
+				"next_video_id": "URL",
+				"alpha": "1",
+				"top": "438",
+				"image": "clients/ochre-1/6612/minipetition-w0uc.png",
+				"left": "3"
+			},
+			{
+				"next_video_id": "facebookshare",
+				"alpha": "1",
+				"top": "405",
+				"image": "clients/ochre-1/6612/share-7zw3.png",
+				"left": "610"
+			}
+		],
+		"original_asset_mime_type": "video/quicktime",
+		"share_msg": "I just remixed Jamie Oliver's 'Food Revolution Day' video. You can too! Support & Click Here!",
+		"original_asset_preview_flv": "clients/ochre-1/6612/preview_djmk-hd720p-jhiv.flv",
+		"flv_low": "clients/ochre-1/6612/djmk-hd720p-jhiv-low.flv",
+		"original_asset_id": "djmk-hd720p-jhiv",
+		"instantSwitch": 1,
+		"flv": "clients/ochre-1/6612/djmk-hd720p-jhiv-high.flv",
+		"id": "djmk-hd720p-jhiv",
+		"original_asset": "clients/ochre-1/6612/djmk-hd720p-jhiv.mov"
+	},
+	"options": {
+		"fullscreen": true,
+		"clickThrough": "http://www.adventr.tv",
+		"bitrates": [
+			"2040",
+			"1540",
+			"1040",
+			"640",
+			"440",
+			"240"
+		],
+		"initial": "intronewtitle-z3if",
+		"baseUrl": "//d252srr1zuysk4.cloudfront.net",
+		"instantPlay": 0,
+		"volume": ".9",
+		"debug": 0,
+		"baseUrlHLS": "//d252srr1zuysk4.cloudfront.net/clients/ochre-1/6612/hls",
+		"skipAdLink": "",
+		"watermark": {
+			"src": "",
+			"top": "0",
+			"alpha": "1",
+			"left": "0"
+		},
+		"images": "//d252srr1zuysk4.cloudfront.net",
+		"altMp4": "clients/ochre-1/6612/frdlinear-ratf-mobile.mp4",
+		"instantSwitch": 1,
+		"showSkipAd": 0,
+		"altHLS": ""
+	}
+}
